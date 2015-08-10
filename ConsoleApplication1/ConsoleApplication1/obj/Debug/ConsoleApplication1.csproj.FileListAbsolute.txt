@@ -1,0 +1,20 @@
+c:\users\vinicius.reis\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\vinicius.reis\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\vinicius.reis\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\vinicius.reis\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\vinicius.reis\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+c:\users\vinicius.reis\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+c:\users\vinicius.reis\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+c:\users\vinicius.reis\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+c:\users\vinicius.reis\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\vinicius.reis\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Repositorios\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Repositorios\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Repositorios\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Repositorios\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Repositorios\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Repositorios\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Repositorios\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Repositorios\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Repositorios\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Repositorios\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
