@@ -13,7 +13,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             IHubProxy _hub;
-            string url = @"http://signalrchat-xsp.azurewebsites.net/";
+            string url = @"http://localhost:63853/";
             var connection = new HubConnection(url);
             _hub = connection.CreateHubProxy("ChatHub");
             connection.Start().Wait();
