@@ -13,7 +13,7 @@ namespace XSP.SignalR.Movel
         public App()
         {
             // The root page of your application
-            MainPage = new UserPage();
+            MainPage = new LoginPage();
         }
 
         protected override void OnStart()

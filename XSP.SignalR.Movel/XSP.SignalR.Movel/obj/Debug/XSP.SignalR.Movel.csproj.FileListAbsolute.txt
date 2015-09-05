@@ -19,3 +19,24 @@ c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.Si
 c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel\bin\Debug\Xamarin.Forms.Xaml.xml
 c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel\obj\Debug\XSP.SignalR.Movel.dll
 c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel\obj\Debug\XSP.SignalR.Movel.pdb
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel\bin\Debug\XSP.SignalR.Movel.dll.config
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel\bin\Debug\XSP.SignalR.Movel.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel\bin\Debug\XSP.SignalR.Movel.pdb
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel\bin\Debug\Newtonsoft.Json.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel\bin\Debug\System.Net.Http.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel\bin\Debug\System.Net.Http.Extensions.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel\bin\Debug\System.Net.Http.Primitives.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel\bin\Debug\Xamarin.Forms.Core.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel\bin\Debug\Newtonsoft.Json.xml
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel\bin\Debug\System.Net.Http.xml
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel\bin\Debug\System.Net.Http.Extensions.xml
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel\bin\Debug\System.Net.Http.Primitives.xml
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel\bin\Debug\Xamarin.Forms.Core.xml
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel\obj\Debug\XSP.SignalR.Movel.csproj.App.config
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel\obj\Debug\XSP.SignalR.Movel.csprojResolveAssemblyReference.cache
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel\obj\Debug\XSP.SignalR.Movel.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel\obj\Debug\XSP.SignalR.Movel.pdb

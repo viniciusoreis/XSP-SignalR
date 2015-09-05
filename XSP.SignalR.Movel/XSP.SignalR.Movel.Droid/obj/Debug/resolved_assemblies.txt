@@ -1,74 +1,74 @@
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\XSP.SignalR.Movel.Droid.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\FormsViewGroup.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\Mono.Android.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\mscorlib.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Core.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Xml.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Xml.Linq.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\Xamarin.Forms.Core.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\Xamarin.Forms.Platform.Android.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\Xamarin.Forms.Xaml.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\XSP.SignalR.Movel.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Collections.Concurrent.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Collections.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.ComponentModel.Annotations.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.ComponentModel.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.ComponentModel.EventBasedAsync.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Diagnostics.Contracts.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Diagnostics.Debug.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Diagnostics.Tools.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Diagnostics.Tracing.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Dynamic.Runtime.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Globalization.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.IO.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Linq.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Linq.Expressions.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Linq.Parallel.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Linq.Queryable.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Net.NetworkInformation.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Net.Primitives.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Net.Requests.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.ObjectModel.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Reflection.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Reflection.Emit.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Reflection.Emit.ILGeneration.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Reflection.Emit.Lightweight.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Reflection.Extensions.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Reflection.Primitives.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Resources.ResourceManager.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Runtime.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Runtime.Extensions.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Runtime.InteropServices.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Runtime.InteropServices.WindowsRuntime.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Runtime.Numerics.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Runtime.Serialization.Json.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Runtime.Serialization.Primitives.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Runtime.Serialization.Xml.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Security.Principal.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.ServiceModel.Http.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.ServiceModel.Primitives.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.ServiceModel.Security.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Text.Encoding.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Text.Encoding.Extensions.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Text.RegularExpressions.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Threading.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Threading.Tasks.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Threading.Tasks.Parallel.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Threading.Timer.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Xml.ReaderWriter.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Xml.XDocument.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Xml.XmlSerializer.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Runtime.Serialization.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Net.Http.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\Microsoft.AspNet.SignalR.Client.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Net.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\Newtonsoft.Json.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\Microsoft.CSharp.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\Mono.CSharp.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Net.Http.Extensions.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.ComponentModel.DataAnnotations.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.ComponentModel.Composition.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Numerics.dll
-c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.ServiceModel.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\XSP.SignalR.Movel.Droid.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\FormsViewGroup.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\Mono.Android.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\mscorlib.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Core.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Xml.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\Xamarin.Forms.Core.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\Xamarin.Forms.Platform.Android.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\Xamarin.Forms.Xaml.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\XSP.SignalR.Movel.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Collections.Concurrent.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Collections.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.ComponentModel.Annotations.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.ComponentModel.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.ComponentModel.EventBasedAsync.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Diagnostics.Contracts.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Diagnostics.Debug.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Diagnostics.Tools.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Diagnostics.Tracing.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Dynamic.Runtime.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Globalization.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.IO.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Linq.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Linq.Expressions.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Linq.Parallel.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Linq.Queryable.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Net.NetworkInformation.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Net.Primitives.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Net.Requests.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.ObjectModel.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Reflection.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Reflection.Emit.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Reflection.Emit.ILGeneration.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Reflection.Emit.Lightweight.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Reflection.Extensions.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Reflection.Primitives.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Resources.ResourceManager.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Runtime.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Runtime.Extensions.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Runtime.InteropServices.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Runtime.Numerics.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Runtime.Serialization.Json.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Runtime.Serialization.Primitives.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Runtime.Serialization.Xml.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Security.Principal.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.ServiceModel.Http.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.ServiceModel.Primitives.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.ServiceModel.Security.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Text.Encoding.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Text.Encoding.Extensions.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Text.RegularExpressions.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Threading.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Threading.Tasks.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Threading.Tasks.Parallel.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Threading.Timer.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Xml.ReaderWriter.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Xml.XDocument.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Xml.XmlSerializer.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Net.Http.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\Microsoft.AspNet.SignalR.Client.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Net.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\Newtonsoft.Json.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\Microsoft.CSharp.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\Mono.CSharp.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Net.Http.Extensions.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.ComponentModel.DataAnnotations.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.ComponentModel.Composition.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.Numerics.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\assemblies\System.ServiceModel.dll

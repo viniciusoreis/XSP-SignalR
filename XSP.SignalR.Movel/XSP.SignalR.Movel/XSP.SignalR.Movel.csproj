@@ -39,7 +39,9 @@
     <Compile Include="Models\ChatMessage.cs" />
     <Compile Include="Models\ChatModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service\reference.cs" />
     <Compile Include="Views\ChatPage.cs" />
+    <Compile Include="Views\LoginPage.cs" />
     <Compile Include="Views\UserPage.cs" />
   </ItemGroup>
   <ItemGroup>

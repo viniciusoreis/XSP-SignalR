@@ -28,3 +28,33 @@ c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.Si
 c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
 c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\R.cs.flag
 c:\users\vinicius\documents\visual studio 2015\Projects\XSP.SignalR.Movel\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\uploadflags.txt
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\bin\Debug\XSP.SignalR.Movel.Droid.dll.config
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\bin\Debug\XSP.SignalR.Movel.Droid.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\bin\Debug\XSP.SignalR.Movel.Droid.pdb
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\bin\Debug\XSP.SignalR.Movel.Droid.apk
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\bin\Debug\XSP.SignalR.Movel.Droid-Signed.apk
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\bin\Debug\FormsViewGroup.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\bin\Debug\XSP.SignalR.Movel.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\bin\Debug\System.Net.Http.Extensions.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\bin\Debug\XSP.SignalR.Movel.pdb
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\bin\Debug\System.Net.Http.Extensions.xml
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\XSP.SignalR.Movel.Droid.csprojResolveAssemblyReference.cache
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\XSP.SignalR.Movel.Droid.dll
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\XSP.SignalR.Movel.Droid.pdb
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\android\bin\XSP.SignalR.Movel.Droid.apk
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\res\drawable\icon.png
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\R.cs.flag
+C:\Repositorios\XSP-SignalR\XSP.SignalR.Movel\XSP.SignalR.Movel.Droid\obj\Debug\uploadflags.txt

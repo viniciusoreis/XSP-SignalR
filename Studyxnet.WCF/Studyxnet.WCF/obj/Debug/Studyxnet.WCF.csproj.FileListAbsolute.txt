@@ -1,0 +1,6 @@
+c:\users\vinicius.reis\documents\visual studio 2015\Projects\Studyxnet.WCF\Studyxnet.WCF\bin\Studyxnet.WCF.dll.config
+c:\users\vinicius.reis\documents\visual studio 2015\Projects\Studyxnet.WCF\Studyxnet.WCF\bin\Studyxnet.WCF.dll
+c:\users\vinicius.reis\documents\visual studio 2015\Projects\Studyxnet.WCF\Studyxnet.WCF\bin\Studyxnet.WCF.pdb
+c:\users\vinicius.reis\documents\visual studio 2015\Projects\Studyxnet.WCF\Studyxnet.WCF\obj\Debug\Studyxnet.WCF.csprojResolveAssemblyReference.cache
+c:\users\vinicius.reis\documents\visual studio 2015\Projects\Studyxnet.WCF\Studyxnet.WCF\obj\Debug\Studyxnet.WCF.dll
+c:\users\vinicius.reis\documents\visual studio 2015\Projects\Studyxnet.WCF\Studyxnet.WCF\obj\Debug\Studyxnet.WCF.pdb
